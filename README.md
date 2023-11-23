@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paulakinpelu
 - 👀 I’m interested in Machine Learning, DevOps, AI Engineering,  Data Analysis and Pythons
-- I am currently doing my MSc in Artificial Intelligence with the University of Salford, United Kingdom.
+- I am currently doing my MSc in Artificial Intelligence at the University of Salford, United Kingdom.
 - 🌱 I’m currently own couples ofcertificatiobs on Microsoft and Google with AWS Developers Series with Edx
 - 💞️ I’m looking to collaborate on data engineering/Data Analyis/DevOps projectsoject
 - 📫 How to reach me . 
