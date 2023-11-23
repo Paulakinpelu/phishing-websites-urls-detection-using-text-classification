@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Paulakinpelu
-- 👀 I’m interested in DevOps, Data Analyst and Pythons
-- 🌱 I’m currently learning AWS Developers Series with Edx
-- 💞️ I’m looking to collaborate on data engineerin/Data Analyis/DevOps projectsoject
+- 👀 I’m interested in Machine Learning, DevOps, AI Engineering,  Data Analysis and Pythons
+- 🌱 I’m currently own couples ofcertificatiobs on Microsoft and Google with AWS Developers Series with Edx
+- 💞️ I’m looking to collaborate on data engineering/Data Analyis/DevOps projectsoject
 - 📫 How to reach me . 
 You can reach me through my email address 'paulakinpelu@yahoo.com'
 
