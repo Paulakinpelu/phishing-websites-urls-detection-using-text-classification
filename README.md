@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Paulakinpelu
-- 👀 I’m interested in Machine Learning, DevOps, AI Engineering,  Data Analysis and Pythons
+- 👀 I’m interested in Machine Learning, DevOps, ML & AI Engineering,  Data Analysis and Pythons
 - I am currently doing my MSc in Artificial Intelligence at the University of Salford, United Kingdom.
-- 🌱 I’m currently own couples of certifications on Microsoft, Google, AWS Developers Series with Edx and others.
+- 🌱 I’m currently owning couples of certifications on Microsoft, Google, AWS Developers Series with Edx and others.
 - 💞️ I’m looking to collaborate on Data Engineering/Data Analysis/DevOps Engineering Projects
 - 📫 How to reach me . 
 You can reach me through my email address 'paulakinpelu@yahoo.com'
